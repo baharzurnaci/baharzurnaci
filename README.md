@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi, I'm Bahar 👩🏼‍💻
 
-<!--
-**baharzurnaci/baharzurnaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work as a Training Specialist at Kodluyoruz (https://www.kodluyoruz.org/). Kodluyoruz is a social enterprise working to make Turkey a worldwide talent hub in the tech sector. 🚀 Also, I'm a junior analyst with a passion for data science, technology and software. 
 
-Here are some ideas to get you started:
+- I currently working on the data analytics with Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- My aim is to specialize in data analysis over time. For this, I continue to learn by following blogs, courses and different platforms every day.
+
+- Sharing updates on <a href="https://www.linkedin.com/in/baharzurnaci/">LinkedIn</a> 💻
+
+
+## Connect with me:
+
+<a href="https://medium.com/@baharzurnaci/"><img align="left" alt="medium" width="28px" src ="https://cdn.iconscout.com/icon/free/png-512/medium-47-433328.png"/></a>
