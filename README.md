@@ -1,6 +1,6 @@
 # Hi, I'm Bahar 👩🏼‍💻
 
-I work as a Training Specialist at Kodluyoruz (https://www.kodluyoruz.org/). Kodluyoruz is a social enterprise working to make Turkey a worldwide talent hub in the tech sector. 🚀 Also, I'm a junior analyst with a passion for data science, technology and software. 
+I work as a Training Specialist at Kodluyoruz (https://www.kodluyoruz.org/). Kodluyoruz is a social enterprise working to make Turkey a worldwide talent hub in the tech sector. 🚀 Also, I'm a data analyst with a passion for data science, technology and software. 
 
 - I am currently working on data analytics with Python.
 
