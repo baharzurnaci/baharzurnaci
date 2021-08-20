@@ -6,7 +6,6 @@ I work as a Training Specialist at Kodluyoruz (https://www.kodluyoruz.org/). Kod
 
 - My aim is to specialize in data analysis over time. For this, I continue to learn by following blogs, courses and different platforms every day.
 
-- Sharing updates on <a href="https://www.linkedin.com/in/baharzurnaci/">LinkedIn</a> 💻
 
 
 ## Connect with me:
