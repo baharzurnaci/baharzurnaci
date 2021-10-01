@@ -2,7 +2,7 @@
 
 I work as a Training Specialist at Kodluyoruz (https://www.kodluyoruz.org/). Kodluyoruz is a social enterprise working to make Turkey a worldwide talent hub in the tech sector. 🚀 Also, I'm a data analyst with a passion for data science, technology and software. 
 
-- I am currently working on data analytics with Python.
+- I am currently working on data analytics with Python and SQL.
 
 - My aim is to specialize in data analysis over time. For this, I continue to learn by following blogs, courses and different platforms every day.
 
