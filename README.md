@@ -4,7 +4,7 @@
 
 - I interested in actively Machine Learning projects. For example, car price prediction, churn analysis etc.
 
-- My aim is to specialize in data analysis over time. For this, I continue to learn by following blogs, courses and different platforms every day. 
+
 
 
 
