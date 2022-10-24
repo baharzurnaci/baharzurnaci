@@ -1,6 +1,6 @@
 # Hi, I'm Bahar 👩🏼‍💻
 
-- I am currently working on data analytics with Python and SQL. 
+- I'm currently working on data analytics with Python and SQL. 
 
 - I interested in actively Machine Learning projects. For example, car price prediction, churn analysis etc.
 
